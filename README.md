@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://yelpcamp--demo.herokuapp.com/)
+To see the app in action, go to [https://enigmatic-island-78680.herokuapp.com/](https://enigmatic-island-78680.herokuapp.com/)
 
 ## Features
 
